@@ -19,7 +19,7 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/website-muhammetozmen.org-blue?style=flat&logo=google-chrome&logoColor=white)](https://muhammetozmen.org/en/resume)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/muhammetozmen/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn%-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/muhammetozmen/)
 [![YouTube](https://img.shields.io/badge/YouTube-ozmen--muhammet-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@ozmen-muhammet)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ozmen.muhammet@outlook.com)
 
