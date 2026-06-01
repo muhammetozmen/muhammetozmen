@@ -1,7 +1,12 @@
 <img src="https://blob.gifcities.org/gifcities/26QC2BSYZA2VA36FXV3YFTHNEJZF3KQ6.gif" width="100%" />
-<div align="left">
-![Open to Work](https://img.shields.io/badge/🟢%20Open%20to%20Work-Embedded%20%7C%20Firmware%20%7C%20Software-brightgreen?style=for-the-badge)
+
+<div align="center">
+
+### ✦ Open to Work ✦
+**Embedded Systems · Firmware · Software Engineering**
+
 </div>
+
 <img src="https://blob.gifcities.org/gifcities/ZJFY7F66YMJVPQQXYG6RASRLYVFLWCKI.gif" align="left" width="72" />
 
 
