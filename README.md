@@ -1,14 +1,11 @@
 <img src="https://blob.gifcities.org/gifcities/26QC2BSYZA2VA36FXV3YFTHNEJZF3KQ6.gif" width="100%" />
 <img src="https://blob.gifcities.org/gifcities/ZJFY7F66YMJVPQQXYG6RASRLYVFLWCKI.gif" align="left" width="72" />
 
-&nbsp;&nbsp;&nbsp;I'm Muhammet, an Embedded Systems & Software Engineer based in Turkey. I build fast, stay curious, and approach everything with a problem-solving mindset. I write C/C++ for STM32/ARM Cortex-M targets, develop Qt desktop interfaces, and work with OpenCV, TFLite Micro, and local LLMs. Outside of work I play video games, watch films, and draw.
-
-<div align="center">
-
+<div align="left">
 ![Open to Work](https://img.shields.io/badge/🟢%20Open%20to%20Work-Embedded%20%7C%20Firmware%20%7C%20Software-brightgreen?style=for-the-badge)
-
 </div>
 
+&nbsp;&nbsp;&nbsp;I'm Muhammet, an Embedded Systems & Software Engineer based in Turkey. I build fast, stay curious, and approach everything with a problem-solving mindset. I write C/C++ for STM32/ARM Cortex-M targets, develop Qt desktop interfaces, and work with OpenCV, TFLite Micro, and local LLMs. Outside of work I play video games, watch films, and draw.
 <br clear="left"/>
 
 ---
