@@ -16,7 +16,10 @@
 
 ---
 
-[muhammetozmen.org](https://muhammetozmen.org/en/resume) · [LinkedIn](https://linkedin.com/in/muhammetozmen/) · [YouTube](https://www.youtube.com/@ozmen-muhammet) · [ozmen.muhammet@outlook.com](mailto:ozmen.muhammet@outlook.com)
+[![Website](https://img.shields.io/badge/website-muhammetozmen.org-blue?style=flat&logo=google-chrome&logoColor=white)](https://muhammetozmen.org/en/resume)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammetozmen-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammetozmen/)
+[![YouTube](https://img.shields.io/badge/YouTube-ozmen--muhammet-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@ozmen-muhammet)
+[![Mail](https://img.shields.io/badge/mail-ozmen.muhammet@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:ozmen.muhammet@outlook.com)
 
 ---
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
