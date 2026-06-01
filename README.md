@@ -1,16 +1,17 @@
-## Hi there 👋
+```
+┌──[muhammetozmen@github]~
+├── Software Developer · Turkey
+├── Embedded Systems / Firmware / Linux
+└── Local AI · Open Source · Gaming
+```
 
-<!--
-**muhammetozmen/muhammetozmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Stack**
+`STM32` `ARM Cortex-M` `FreeRTOS` `C/C++` `Python` `Qt` `OpenCV` `FastAPI` `Linux`
 
-Here are some ideas to get you started:
+**Links**
+[🌐 muhammetozmen.org](https://muhammetozmen.org/en/resume) · [💼 LinkedIn](https://linkedin.com/in/muhammetozmen/) · [▶ YouTube](https://www.youtube.com/@ozmen-muhammet) · [✉ Mail](mailto:ozmen.muhammet@outlook.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![Stats](https://github-readme-stats.vercel.app/api?username=muhammetozmen&show_icons=true&theme=dark&hide_border=true&hide_title=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammetozmen&layout=compact&theme=dark&hide_border=true)
