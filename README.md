@@ -17,6 +17,7 @@
 [muhammetozmen.org](https://muhammetozmen.org/en/resume) · [LinkedIn](https://linkedin.com/in/muhammetozmen/) · [YouTube](https://www.youtube.com/@ozmen-muhammet) · [ozmen.muhammet@outlook.com](mailto:ozmen.muhammet@outlook.com)
 
 ---
+
 ![C++](https://img.shields.io/badge/C%2F C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
