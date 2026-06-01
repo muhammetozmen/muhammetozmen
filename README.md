@@ -2,8 +2,7 @@
 
 <div align="center">
 
-### ✦ Open to Work ✦
-**Embedded Systems · Firmware · Software Engineering**
+![Open to Work](https://img.shields.io/badge/🟢%20Open%20to%20Work-Embedded%20%7C%20Firmware%20%7C%20Software-brightgreen?style=for-the-badge)
 
 </div>
 
