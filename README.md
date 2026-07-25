@@ -6,10 +6,7 @@
 
 </div>
 
-&nbsp;&nbsp;&nbsp;I'm Muhammet, an Embedded Systems & Software Engineer based in Turkey. I build fast, stay curious, and 
-&nbsp;&nbsp;&nbsp;approach everything with a problem-solving mindset. I write C/C++ for STM32/ARM Cortex-M targets, develop Qt 
-&nbsp;&nbsp;&nbsp;desktop interfaces, and work with OpenCV, TFLite Micro, and local LLMs. Outside of work I play video games, watch films, and draw. I love retro things.
-<br clear="left"/>
+I'm Muhammet, an Embedded Systems & Software Engineer based in Turkey. I build fast, stay curious, and  approach everything with a problem-solving mindset. I write C/C++ for STM32/ARM Cortex-M targets, develop Qt desktop interfaces, and work with OpenCV, TFLite Micro, and local LLMs. Outside of work I play video games, watch films, and draw. I love retro things.
 
 ---
 
